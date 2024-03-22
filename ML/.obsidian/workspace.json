@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "267201d1cdcf8499",
+    "type": "split",
+    "children": [
+      {
+        "id": "b39410332211f64d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54a369a5f4950f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Text Embeddings.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8235ad38b1371c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e9e050b6a28fd9d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bc2dcd94670ca67",
+    "type": "split",
+    "children": [
+      {
+        "id": "448b64ba86f5ba5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bdd0e40697c9069",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32bac3c4cf6aef8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "164a39996ac0171b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05e826e1d21880fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb2edc7b1b3acda2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b846c7b418e866e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Text Embeddings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b94f692180732a19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Text Embeddings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b0cca3d26c8b369",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c6ff6a70a97adec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Text Embeddings.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2e9e050b6a28fd9d",
+  "lastOpenFiles": [
+    "Vector Similarity.md",
+    "Text Embeddings.md",
+    "distances.md",
+    "Расстояние.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
