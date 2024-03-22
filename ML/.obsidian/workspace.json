@@ -32,8 +32,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "a61c8db27ea468bf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Text Embeddings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Text Embeddings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Text Embeddings.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e9e050b6a28fd9d",
+  "active": "a61c8db27ea468bf",
   "lastOpenFiles": [
+    "Dropout.md",
+    "Regularization.md",
     "Vector Similarity.md",
     "Text Embeddings.md",
     "distances.md",

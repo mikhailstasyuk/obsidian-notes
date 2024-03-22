@@ -1,0 +1,2 @@
+One of [[Regularization|regularization]] techniques. It reduces overfitting by randomly selecting neurons to ignore during training with a dropout probability. These selected neurons are temporarily excluded in activation activity in a forward pass, and none of the weight updates are applied to them during a backward pass.
+So, as a result, different subsets of the full network are trained on each iteration.
