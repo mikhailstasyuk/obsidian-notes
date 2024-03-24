@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Dropout.md",
-                "mode": "source",
+                "file": "music/Motive.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Dropout.md",
+                "file": "music/Motive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Dropout.md",
+                "file": "music/Motive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Dropout.md"
+                "file": "music/Motive.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "3bb9041ee2b696aa",
   "lastOpenFiles": [
+    "ML/Dropout.md",
     "autocommit.bat",
     "autocommit.bat.txt",
     "New Text Document.txt",
@@ -156,7 +157,6 @@
     "ML/Text Embeddings.md",
     "music/Motive.md",
     "maths/Untitled.canvas",
-    "ML/Vector Similarity.md",
-    "ML/Dropout.md"
+    "ML/Vector Similarity.md"
   ]
 }
