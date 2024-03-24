@@ -1,4 +1,4 @@
-cd C:\Users\user\Documents\GitHub\obsidian-notes
+cd /D "%~dp0"
 git status
 git add --all
 git commit -m %%datenow%%
