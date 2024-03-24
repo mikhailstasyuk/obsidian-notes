@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "64e9c2f5ff89901c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2e3429b8bb0c9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c246a3b0d4f1902f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Motive.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9d4d6d2907573eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67047d2dc41a930e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40c48062a739e8dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c958eb048591df6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bde2d5776d83fe2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13f1b86c2383d996",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a79fc7094f33d5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4022ede850d22094",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce3fb4a0601f2fe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e60f9ec6e99658c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Motive.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92f5f98debf8e068",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Motive.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2f88567e666db74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7338a11dcd3066ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Motive.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c246a3b0d4f1902f",
+  "lastOpenFiles": [
+    "Motive.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "f534a494eed5cab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3600fe46c065e40",
+        "type": "tabs",
+        "dimension": 16.941624365482234,
+        "children": [
+          {
+            "id": "1b3ff6e1d142fe89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EBM.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f6fc25b130941b23",
+        "type": "tabs",
+        "dimension": 83.05837563451777,
+        "children": [
+          {
+            "id": "0c02d00c093627eb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e4a4938d06415b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0fded5bcfc6b1bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e28d493029d183",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3feff82c2c7c5fc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49c54892c7ce5864",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cc27a46fb7b5786",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cfc995bd522a279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ab4a0afbdde84ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EBM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b92635360cc8f2ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EBM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f58a1fe97add931",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c944723cb564a7ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EBM.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1b3ff6e1d142fe89",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "EBM.md",
+    "test.md",
+    "Maths",
+    "Манифест.md",
+    "Сходки.md",
+    "Спорт.md",
+    "Кровь.md",
+    "Насилие.md",
+    "Деньги.md",
+    "Поток.md",
+    "Дарение.md",
+    "Данные.md",
+    "Кибернетика.md",
+    "Мозг.md",
+    "Сознание.md",
+    "Поведение.md",
+    "Решения.md",
+    "Пища.md",
+    "Технологии.md",
+    "Политика.md",
+    "Деятельность.md",
+    "Закон.md",
+    "Программирование.md",
+    "Ремонт.md",
+    "Природа.md",
+    "Рабочие.md",
+    "backup",
+    "New folder"
+  ]
+}
