@@ -3,3 +3,4 @@ git status
 git add --all
 git commit -m "Update"
 git push
+echo test string
