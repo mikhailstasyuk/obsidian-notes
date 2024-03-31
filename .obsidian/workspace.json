@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music/Motive.md",
-                "mode": "preview",
+                "file": "music/Phrase.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music/Motive.md",
+                "file": "music/Phrase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music/Motive.md",
+                "file": "music/Phrase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music/Motive.md"
+                "file": "music/Phrase.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "3bb9041ee2b696aa",
   "lastOpenFiles": [
+    "music/Motive.md",
+    "music/Phrase.md",
     "test",
     "New Text Document.txt",
     "autocommit.vbs",
@@ -157,7 +159,6 @@
     "autocommit.bat.txt",
     "ML/Regularization.md",
     "ML/Text Embeddings.md",
-    "music/Motive.md",
     "maths/Untitled.canvas",
     "ML/Vector Similarity.md"
   ]
