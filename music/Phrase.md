@@ -12,5 +12,6 @@
 		- Increasingly dissonant harmony.
 
 - Punctuation
-	Rhythmic or textural changes can create varied deg
+	Rhythmic or textural changes can create varied degrees of punctuation.
+	
 
