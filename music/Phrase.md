@@ -13,5 +13,4 @@
 
 - Punctuation
 	Rhythmic or textural changes can create varied degrees of punctuation.
-	
 
