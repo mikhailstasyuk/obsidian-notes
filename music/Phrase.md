@@ -1,6 +1,5 @@
 - Music works via expectations we develop when we compare motives and phrases. 
 - Structure:
 	- The beginning must attract attention.
-	- Then the prase evolves, either by carrying the opening [[motive]] to a local peak, or else by proposing a prominent motivic contrast.
+	- Then the phrase evolves, either by carrying the opening [[motive]] to a local peak, or else by proposing a prominent motivic contrast.
 	- The phrase closes with some kind of punctuation.
-	
