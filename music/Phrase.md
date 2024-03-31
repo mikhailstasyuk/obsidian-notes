@@ -8,4 +8,5 @@ Development ideas:
 - Accelerating harmonic rhythm.
 - Fragmentation of the motive into smaller chunks.
 - Increasingly dissonant harmony.
-The point of development is not to maintain the same level of intensity throu
+The point of development is not to maintain the same level of intensity through the phrase.
+
