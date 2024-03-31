@@ -4,5 +4,7 @@
 	- Then the phrase evolves, either by carrying the opening [[motive]] to a local peak, or else by proposing a prominent motivic contrast.
 	- The phrase closes with some kind of punctuation.
 Development ideas:
-- Rising peaks in the melody
-- Accelerating 
+- Rising peaks in the melody.
+- Accelerating harmonic rhythm.
+- Fragmentation of the motive into smaller chunks.
+- Increasingly 
