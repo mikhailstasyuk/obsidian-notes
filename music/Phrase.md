@@ -1,2 +1,2 @@
 - Music works via expectations we develop when we compare motives and phrases. 
-- 
+- The beginning must attract attention. Then it evolves, either by carrying the opening motive to
