@@ -5,10 +5,10 @@
 	- The phrase closes with some kind of punctuation.
 Development
 Ideas:
-- Rising peaks in the melody.
-- Accelerating harmonic rhythm.
-- Fragmentation of the motive into smaller chunks.
-- Increasingly dissonant harmony.
+Rising peaks in the melody.
+	- Accelerating harmonic rhythm.
+	- Fragmentation of the motive into smaller chunks.
+	- Increasingly dissonant harmony.
 The point of development is not to maintain the same level of intensity through the phrase.
 
 Punctuation 
