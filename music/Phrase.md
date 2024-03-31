@@ -7,4 +7,5 @@ Development ideas:
 - Rising peaks in the melody.
 - Accelerating harmonic rhythm.
 - Fragmentation of the motive into smaller chunks.
-- Increasingly 
+- Increasingly dissonant harmony.
+The point of development is not to maintain the same level of intensity throu
