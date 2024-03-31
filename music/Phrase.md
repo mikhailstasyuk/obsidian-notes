@@ -10,3 +10,5 @@ Development ideas:
 - Increasingly dissonant harmony.
 The point of development is not to maintain the same level of intensity through the phrase.
 
+
+
