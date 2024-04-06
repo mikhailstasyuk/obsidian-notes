@@ -1,1 +1,1 @@
-Data points order matters. Each row is dependent on the previous row. No features, except for classes that we are trying to predict. And we do it based on the previous row in a sequence.
+In a Markov model, the sequence of data points is crucial. Each row relies on the preceding one, meaning their order is significant. Features aren't considered, except for the classes we aim to forecast, which are determined by the preceding row in the sequence.
