@@ -1,1 +1,1 @@
-Data points matters. Each row is dependent on the previous row. No features, except classes that we are trying to predict. And we do it based on the previous in a
+Data points order matters. Each row is dependent on the previous row. No features, except for classes that we are trying to predict. And we do it based on the previous row in a sequence.
