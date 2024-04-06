@@ -1,4 +1,4 @@
-We say a function $A:R^{m}→R^{n}$ is _affine_ if there is a linear function L:Rm→Rn and a vector b in Rn
+We say a function $A:R^{m}→R^{n}$ is _affine_ if there is a linear function $L:R^{m}→R^{n}$ and $a$ vector b in Rn
 
 such that
 
