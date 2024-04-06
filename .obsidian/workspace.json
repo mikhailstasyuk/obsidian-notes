@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "630b6c8a891a0bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maths/Markov property.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maths/Linear function.md",
+                "file": "maths/Markov property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maths/Linear function.md",
+                "file": "maths/Markov property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "maths/Linear function.md"
+                "file": "maths/Markov property.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2993c114cbeb29a",
+  "active": "630b6c8a891a0bd5",
   "lastOpenFiles": [
-    "maths/Affine function.md",
     "maths/Linear function.md",
+    "maths/Markov property.md",
+    "maths/Affine function.md",
     "music/Phrase.md",
     "maths/Welcome.md",
     "maths/Untitled.canvas",
