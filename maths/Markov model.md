@@ -1,1 +1,1 @@
-Each row is dependent on the previous row. No features, except classes that we a
+Data points matters. Each row is dependent on the previous row. No features, except classes that we are trying to predict. And we do it based on the previous in a
