@@ -4,6 +4,7 @@ In a Markov model, the sequence of data points is crucial. Each row relies on th
 If we assume that the transition probabilities do not vary over time, we can find a probability of moving from state $S_i$ to $S_j$ using the [[Markov property]]: $$
 \displaylines{
 a_{i, j}=P(q_t=S_j|q_{t-1}=S_i) \text{‎‎‎ ‎ ‎ ‎ ‎}1≤i,j≤N \\ 
-a_{aj}≥0}$$
-$$\sum_{j=1}^Na_{ij}=1,$$where $q_t$ is the state of the system at time $t$, and $N$ is the number of possible states.
+a_{aj}≥0\\
+\sum_{j=1}^Na_{ij}=1,
+}$$where $q_t$ is the state of the system at time $t$, and $N$ is the number of possible states.
 
