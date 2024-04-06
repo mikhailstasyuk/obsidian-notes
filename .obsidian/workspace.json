@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maths/Affine function.md",
-                "mode": "preview",
+                "file": "maths/Linear function.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maths/Affine function.md",
+                "file": "maths/Linear function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maths/Affine function.md",
+                "file": "maths/Linear function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "maths/Affine function.md"
+                "file": "maths/Linear function.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "f2993c114cbeb29a",
   "lastOpenFiles": [
-    "maths/Linear function.md",
     "maths/Affine function.md",
+    "maths/Linear function.md",
     "music/Phrase.md",
     "maths/Welcome.md",
     "maths/Untitled.canvas",
