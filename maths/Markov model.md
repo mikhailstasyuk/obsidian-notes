@@ -6,4 +6,6 @@ If we assume that the transition probabilities do not vary over time, we can fin
 a_{i, j}=P(q_t=S_j|q_{t-1}=S_i) \text{‎‎‎ ‎ ‎ ‎ ‎}1≤i,j≤N \\ \\
 a_{ij}≥0\\
 \sum_{j=1}^Na_{ij}=1,
-}$$where $q_t$ is the state of the system at time $t$, and $N$ is the number of possible states. Each state corresponds to an observable event.
+}$$where $q_t$ is the state of the system at time $t$, and $N$ is the number of possible states. 
+
+Here, each state corresponds to an observable event.
