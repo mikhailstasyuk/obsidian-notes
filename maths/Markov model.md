@@ -1,4 +1,5 @@
 In a Markov model, the sequence of data points is crucial. Each row relies on the preceding one, meaning their order is significant. Features aren't considered, except for the classes we aim to forecast, which are determined by the preceding row in the sequence.
+[[(https://youtu.be/cYjPUMAqIUo?si=PzkfNg6vbtQJez7Y)|Source]]
 
 ##### Observable Markov model
 If we assume that the transition probabilities do not vary over time, we can find a probability of moving from state $S_i$ to $S_j$ using the [[Markov property]]: $$
