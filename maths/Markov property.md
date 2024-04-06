@@ -1,1 +1,1 @@
-A mathematical modeling constraint that says that we are going to assume that even our 
+A mathematical modeling constraint that says that we are going to assume that, in our model, even though our row is dependent on a previous row, it is only dependent on a previous row and nothing that was behind it.
