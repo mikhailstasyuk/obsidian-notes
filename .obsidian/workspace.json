@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2993c114cbeb29a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maths/Многочлен.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music/Phrase.md",
+                "file": "maths/Многочлен.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music/Phrase.md",
+                "file": "maths/Многочлен.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music/Phrase.md"
+                "file": "maths/Многочлен.md"
               }
             }
           }
@@ -146,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bb9041ee2b696aa",
+  "active": "f2993c114cbeb29a",
   "lastOpenFiles": [
-    "music/Motive.md",
     "music/Phrase.md",
+    "maths/Welcome.md",
+    "maths/Многочлен.md",
+    "maths/Untitled.canvas",
+    "music/Motive.md",
     "test",
     "New Text Document.txt",
     "autocommit.vbs",
@@ -159,7 +175,6 @@
     "autocommit.bat.txt",
     "ML/Regularization.md",
     "ML/Text Embeddings.md",
-    "maths/Untitled.canvas",
     "ML/Vector Similarity.md"
   ]
 }
