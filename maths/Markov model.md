@@ -31,7 +31,7 @@ $$\displaylines{
 	}
 	$$
 - What is $P(O|Model)$?
-- Using the [[Mar]]
+- Using the Markov property we can break it down to:
 $$\displaylines{
 P(O|Model) = \\
 =P(S_3,S_3,S_3,S_1,S_1,S_3,S_2, S_3|Model)=\\
