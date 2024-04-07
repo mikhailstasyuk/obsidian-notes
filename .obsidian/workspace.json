@@ -8,12 +8,20 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "e699b7bb06cea9f5",
+=======
+            "id": "f2993c114cbeb29a",
+>>>>>>> b8eb09179a0cfac298f55fdb6150f5d5d3e07986
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "maths/Markov model.md",
+=======
+                "file": "maths/Linear function.md",
+>>>>>>> b8eb09179a0cfac298f55fdb6150f5d5d3e07986
                 "mode": "preview",
                 "source": false
               }
@@ -148,11 +156,16 @@
   },
   "active": "e699b7bb06cea9f5",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "maths/Markov property.md",
     "maths/Markov model.md",
     "maths/Linear function.md",
     "maths/Affine function.md",
+=======
+>>>>>>> b8eb09179a0cfac298f55fdb6150f5d5d3e07986
     "music/Phrase.md",
+    "maths/Linear function.md",
+    "maths/Affine function.md",
     "maths/Welcome.md",
     "maths/Untitled.canvas",
     "music/Motive.md",
