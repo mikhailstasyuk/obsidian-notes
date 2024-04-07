@@ -21,4 +21,6 @@ $$\begin{align}
 	}
 	$$
 - What is $P(O|Model)$?
-$$P(O|Model) = $$
+$$\displaylines
+P(O|Model) = \\
+P(S_3,S_3,S_3,S_1,S_1,S_3,S_2, S_3|Model)$$
