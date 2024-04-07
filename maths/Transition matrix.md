@@ -1,1 +1,1 @@
-A square ($n*n$) matrix $A$ of 
+A square matrix $A$ representing 
