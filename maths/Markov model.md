@@ -47,13 +47,14 @@ P(S_3|S_1)
 =\\
 P(O|Model) = \\ 
 \pi_3 
-\cdot a_{33}\\
-\cdot a_{33}\\
-\cdot a_{31}\\
-
-
-
-1
+\cdot a_{33}
+\cdot a_{33}
+\cdot a_{31}
+\cdot a_{11}
+\cdot a_{13}
+\cdot a_{32}
+\cdot a_{23}=\\
+= 1
 \cdot 0.8
 \cdot 0.8 
 \cdot 0.3
