@@ -45,7 +45,11 @@ P(S_3|S_1)
 \cdot P(S_2|S_3)
 \cdot P(S_3|S_2)
 =\\
-= 1
+P(O|Model) = \\ 
+a_
+
+
+1
 \cdot 0.8
 \cdot 0.8 
 \cdot 0.3
