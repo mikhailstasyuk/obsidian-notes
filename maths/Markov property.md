@@ -5,5 +5,8 @@ $$\begin{align}
 & S_1 = rain/snow \\
 & S_2 = cloudy \\
 & S_3 = sunny \\
-& P = {a_{ij = }}
+& P = {a_{ij} = 
+\begin{bmatrix}
+\end{bmatrix}
+}
 \end{align}$$

@@ -148,9 +148,9 @@
   },
   "active": "bc579ebb753fab45",
   "lastOpenFiles": [
-    "maths/Markov model.md",
-    "maths/Markov property.md",
     "maths/Transition matrix.md",
+    "maths/Markov property.md",
+    "maths/Markov model.md",
     "README.md",
     "maths/Linear function.md",
     "maths/Affine function.md",
