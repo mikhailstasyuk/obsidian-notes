@@ -51,4 +51,4 @@ P(S_3|S_1)
 \cdot 0.4
 \cdot 0.1
 \cdot 0.2
-\cdot}$$
+\cdot 0.1}$$
