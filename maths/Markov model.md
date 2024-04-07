@@ -10,5 +10,3 @@ a_{ij}≥0\\
 }$$where $q_t$ is the state of the system at time $t$, and $N$ is the number of possible states. 
 
 Here, each state corresponds to an observable event.
-
-test edit
