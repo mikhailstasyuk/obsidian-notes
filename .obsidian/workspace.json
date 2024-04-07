@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e393c8f9f1f177bb",
+        "id": "7fc57016443f2112",
         "type": "tabs",
         "children": [
           {
-            "id": "dd736d0085d9378f",
+            "id": "bc579ebb753fab45",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd736d0085d9378f",
+  "active": "bc579ebb753fab45",
   "lastOpenFiles": [
+    "README.md",
     "maths/Transition matrix.md",
     "maths/Markov model.md",
     "maths/Markov property.md",
