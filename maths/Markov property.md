@@ -21,3 +21,4 @@ $$\begin{align}
 	}
 	$$
 - What is $P(O|Model)$?
+$$P(O|Model) = $$
