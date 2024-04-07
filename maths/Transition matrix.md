@@ -1,8 +1,8 @@
 A square matrix $P$ representing the probabilities of the transitions in a [[Markov model]].
 $$
-A = \begin{bmatrix}A_{1,1}&...&A_{1,2} &...&A_{1, j}&...& A_{1, n}\\ 
-A_{2,1}&...&A_{2,2}&...& A_{2, j}&...& A_{2, n} \\ 
+P = \begin{bmatrix}P_{1,1}&...&P_{1,2} &...&P_{1, j}&...& P_{1, n}\\ 
+P_{2,1}&...&P_{2,2}&...& P_{2, j}&...& P_{2, n} \\ 
 ...& ...&...&...&...&...& ...\\
-A_{i,1}&...&A_{i,2}&...&A_{i,j}&...&A_{i,n}\\
+P_{i,1}&...&P_{i,2}&...&P_{i,j}&...&P_{i,n}\\
 ...& ...&...&...&...&...& ...\\
-A_{n,1}&...&A_{n,2}&...&A_{n,j}&...&A_{n,n}\end{bmatrix}$$
+P_{n,1}&...&P_{n,2}&...&P_{n,j}&...&P_{n,n}\end{bmatrix}$$
