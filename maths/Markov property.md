@@ -1,6 +1,6 @@
 A mathematical modeling constraint that says that, in our [[Markov model|model]], we're sticking to a rule: each row depends solely on the one right before it, not anything earlier than that.
 
-Example:
+###### Example:
 $$\begin{align}
 & S_1 = rain/snow \\
 & S_2 = cloudy \\
@@ -13,3 +13,4 @@ $$\begin{align}
 \end{bmatrix}
 
 \end{align}$$
+What is probability that the weather for the next 7 days will be sun-sun-rain-rain-sun-cloudy-sun
