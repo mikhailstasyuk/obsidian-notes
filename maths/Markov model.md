@@ -47,7 +47,7 @@ P(S_3|S_1)
 = 1
 \cdot 0.8
 \cdot 0.8 
-\cdot 0.1
+\cdot 0.3
 \cdot 0.4
 \cdot 0.1
 \cdot 0.2
