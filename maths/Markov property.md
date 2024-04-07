@@ -12,8 +12,8 @@ $$\begin{align}
 0.2 & 0.6& 0.2 \\
 0.1 & 0.1 & 0.8
 \end{bmatrix} \\
-\end{align}$$ 
-- What is probability that the weather for the next 7 days will be sun-sun-rain-rain-sun-cloudy-sun?
+\end{align}$$
+- What is probability that the weather for the next 7 days will be _sun-sun-rain-rain-sun-cloudy-sun_?
 - Formally, given an observation sequence:
 $$\displaylines{
 	O = \{S_3,S_3,S_3,S_1,S_1,S_3,S_2, S_3\} \\
