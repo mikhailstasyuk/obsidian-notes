@@ -53,7 +53,7 @@ P(O|Model) = \\
 \cdot a_{11}
 \cdot a_{13}
 \cdot a_{32}
-\cdot a_{23}=\\ \\
+\cdot a_{23}\\ \\
 P(O|Model) = \\
 1
 \cdot 0.8
