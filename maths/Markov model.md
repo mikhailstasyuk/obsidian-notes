@@ -45,6 +45,7 @@ P(S_3|S_1)
 \cdot P(S_3|S_2)
 =\\
 = 1
-\cdot 0.4
-\cdot 0.4 
-}$$
+\cdot 0.8
+\cdot 0.8 
+\cdot 0.1
+\cdot }$$
