@@ -1,1 +1,1 @@
-A square (nxn) matrix $A$ of 
+A square ($n*n$) matrix $A$ of 
