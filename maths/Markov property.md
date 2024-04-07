@@ -15,12 +15,12 @@ $$\begin{align}
 \end{align}$$ 
 - What is probability that the weather for the next 7 days will be sun-sun-rain-rain-sun-cloudy-sun?
 - Formally, given an observation sequence:
-	$$\displaylines{
+$$\displaylines{
 	O = \{S_3,S_3,S_3,S_1,S_1,S_3,S_2, S_3\} \\
 	t = 1,2,3,4,5,6,7,8
 	}
 	$$
 - What is $P(O|Model)$?
-$$\displaylines
+$$\displaylines{
 P(O|Model) = \\
-P(S_3,S_3,S_3,S_1,S_1,S_3,S_2, S_3|Model)$$
+P(S_3,S_3,S_3,S_1,S_1,S_3,S_2, S_3|Model)}$$
