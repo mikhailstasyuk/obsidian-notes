@@ -2,7 +2,7 @@ A square matrix $A$ representing the probabilities of the transitions in a [[Mar
 
 
 $$
-A = \begin{bmatrix}A_{11}& &A_{12}& A_{...}\end{bmatrix}$$
+A = \begin{bmatrix}A_{11}& &A_{12}& A_{1, j}& A_{1, n}\end{bmatrix}$$
 
 
 $\begin{bmatrix}a & b\\c & d\end{bmatrix}$
