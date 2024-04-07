@@ -35,13 +35,13 @@ $$\displaylines{
 $$\displaylines{
 P(O|Model) = \\
 =P(S_3,S_3,S_3,S_1,S_1,S_3,S_2, S_3|Model)\\
-P(O|Model) = 
+P(O|Model) = \\
 P(S_3) 
 \cdot P(S_3|S_3)
 \cdot P(S_3|S_3)
 \cdot P(S_1|S_3)
 \cdot P(S_1|S_1)
-\cdot \\ 
+\cdot \\
 P(S_3|S_1)
 \cdot P(S_2|S_3)
 \cdot P(S_3|S_2)\\ \\
