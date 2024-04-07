@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7fc57016443f2112",
+        "id": "e020f98be295f26b",
         "type": "tabs",
         "children": [
           {
-            "id": "bc579ebb753fab45",
+            "id": "eab65ac72835f197",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "maths/Markov model.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maths/Markov model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maths/Markov model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "maths/Markov model.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc579ebb753fab45",
+  "active": "eab65ac72835f197",
   "lastOpenFiles": [
+    "maths/Markov model.md",
     "maths/Linear function.md",
     "maths/Affine function.md",
     "maths/Markov property.md",
-    "maths/Markov model.md",
     "maths/Transition matrix.md",
     "README.md",
     "music/Phrase.md",
