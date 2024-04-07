@@ -46,7 +46,11 @@ P(S_3|S_1)
 \cdot P(S_3|S_2)
 =\\
 P(O|Model) = \\ 
-a_
+\pi_3 
+\cdot a_{33}\\
+\cdot a_{33}\\
+\cdot a_{31}\\
+
 
 
 1
