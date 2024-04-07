@@ -2,7 +2,8 @@ A mathematical modeling constraint that says that, in our [[Markov model|model]]
 
 Example:
 $$\begin{align}
-S_1 = rain/snow \\
-S_2 = cloudy \\
-S_3 = sunny
+& S_1 = rain/snow \\
+& S_2 = cloudy \\
+& S_3 = sunny \\
+& P = {a_{ij = }}
 \end{align}$$
