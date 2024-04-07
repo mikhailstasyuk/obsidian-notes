@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd736d0085d9378f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maths/Transition matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maths/Markov model.md",
+                "file": "maths/Transition matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maths/Markov model.md",
+                "file": "maths/Transition matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "maths/Markov model.md"
+                "file": "maths/Transition matrix.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e699b7bb06cea9f5",
+  "active": "dd736d0085d9378f",
   "lastOpenFiles": [
-    "maths/Markov property.md",
     "maths/Markov model.md",
+    "maths/Transition matrix.md",
+    "maths/Markov property.md",
     "maths/Linear function.md",
     "maths/Affine function.md",
     "music/Phrase.md",
