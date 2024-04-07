@@ -4,4 +4,5 @@ Example:
 $$\begin{align}
 S_1 = rain/snow \\
 S_2 = cloudy \\
-S_3 = sunny}$$
+S_3 = sunny
+\end{align}$$
