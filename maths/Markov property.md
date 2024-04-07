@@ -15,4 +15,4 @@ $$\begin{align}
 \end{align}$$
 - What is probability that the weather for the next 7 days will be sun-sun-rain-rain-sun-cloudy-sun?
 - Formally, given an observation sequence:
-	$$O = \{S_3,S_3,S_3,S_3,S_3,S_3,\}$$
+	$$\displaylines O = \{S_3,S_3,S_3,S_1,S_1,S_3,S_2, S_3\} $$
