@@ -11,7 +11,7 @@ a_{ij}≥0\\
 
 Here, each state corresponds to an observable event.
 ###### Example:
-We define our $Model$ as follows:
+We define our $Model$ (states, transition matrix and the probablity)as follows:
 $$\begin{align}
 & S_1 = rain/snow \\
 & S_2 = cloudy \\
