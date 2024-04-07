@@ -1,1 +1,4 @@
-A square matrix $A$ representing the probabilities of the transitions in a Markov model 
+A square matrix $A$ representing the probabilities of the transitions in a [[Markov model]].
+
+
+$$A = {a_{ij}}$$
