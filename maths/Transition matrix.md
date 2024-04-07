@@ -1,1 +1,1 @@
-A matrix $A$ mx
+A square (nxn) matrix $A$ of 
