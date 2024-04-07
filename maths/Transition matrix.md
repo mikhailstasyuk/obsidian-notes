@@ -1,4 +1,4 @@
-A square matrix $P$ representing the probabilities of the transitions in a [[Markov model]].
+A square matrix $P$ representing the state transition probabilities in a [[Markov model]].
 $$
 P = \begin{bmatrix}P_{1,1}&...&P_{1,2} &...&P_{1, j}&...& P_{1, n}\\ 
 P_{2,1}&...&P_{2,2}&...& P_{2, j}&...& P_{2, n} \\ 
