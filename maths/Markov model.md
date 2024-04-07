@@ -43,8 +43,7 @@ P(S_3)
 \cdot \\
 P(S_3|S_1)
 \cdot P(S_2|S_3)
-\cdot P(S_3|S_2)
-=\\
+\cdot P(S_3|S_2)\\
 P(O|Model) = \\ 
 \pi_3 
 \cdot a_{33}
